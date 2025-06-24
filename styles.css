@@ -29,6 +29,10 @@ body {
     font-size: 30px;
 }
 
+.projects li{
+    margin-bottom: 20px;
+}
+
 .projects{
     list-style-type: none;
 }
