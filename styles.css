@@ -8,7 +8,7 @@ font-family: "Paytone One";
   margin: 11px 0 17px 0;
   font-size: 80px;
   line-height: 80px;
-  color: #f1ebe5;
+  color: black;
   text-shadow: 0 13.36px 8.896px #c4b59d,0 -2px 1px #fff;
   letter-spacing: -4px;
 
@@ -20,7 +20,7 @@ body{
 }
 
 body {
-  background-color: #ece5da;
+  background-color: white;
   text-align: center;
 }
 
