@@ -15,6 +15,11 @@ font-family: "Paytone One";
   margin-bottom: 50px;
 }
 
+.credit{
+  color: white;
+  margin: 0 auto;
+}
+
 /* From Uiverse.io by Z4drus */ 
 .loader {
   position: relative;
